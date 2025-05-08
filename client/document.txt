@@ -18,3 +18,8 @@ Vestibulum scelerisque, erat eget dignissim fringilla, orci nunc vulputate quam,
 Aenean ornare placerat mauris in ultricies. Curabitur hendrerit ex sed metus molestie, nec gravida urna commodo. 
 Suspendisse pulvinar elementum ipsum, ac interdum nisl iaculis et. Sed vehicula lectus at purus eleifend fringilla. 
 Sed in congue erat, a feugiat diam. Vivamus vitae velit nec ipsum tristique feugiat. Proin ac ipsum ut risus gravida luctus.
+
+
+git remote add origin https://github.com/r2a-codes/github_test.git
+git branch -M main
+git push -u origin main
